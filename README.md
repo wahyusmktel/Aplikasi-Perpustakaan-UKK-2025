@@ -31,7 +31,7 @@ Aplikasi ini dibuat untuk mempermudah manajemen data buku, peminjaman, dan penge
 Aplikasi ini dibuat oleh:
 
 **Wahyu Rahmat Hidayat**  
-Username: `wahyusmktel`  
+Github: `@wahyusmktel`  
 📞 WhatsApp: [082185903635](https://wa.me/6282185903635)
 
 ---
